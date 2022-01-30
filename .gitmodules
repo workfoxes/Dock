@@ -4,3 +4,6 @@
 [submodule "seahorse"]
 	path = seahorse
 	url = git@github.com:workfoxes/seahorse.git
+[submodule "orca"]
+	path = orca
+	url = git@github.com:workfoxes/orca.git
