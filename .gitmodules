@@ -7,4 +7,3 @@
 [submodule "orca"]
 	path = orca
 	url = git@github.com:workfoxes/orca.git
-	branch = HEAD
