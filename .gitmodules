@@ -1,0 +1,6 @@
+[submodule "Octopus"]
+	path = Octopus
+	url = git@github.com:workfoxes/Octopus.git
+[submodule "seahorse"]
+	path = seahorse
+	url = git@github.com:workfoxes/seahorse.git
